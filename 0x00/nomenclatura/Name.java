@@ -3,14 +3,14 @@ import java.util.Date;
 import java.util.List;
 
 public class Name {
-    //B
+    //A
     public Date modifiedDate; // modified date
     public List<Testcase> find(Name.User user){
         return null;
     };
 
-    //B
-    public Account[] AccountList; 
+    //A
+    public List<Account> AccountList; 
 
     //B
     public void deleteUser(Name.User user){};
