@@ -36,11 +36,11 @@ public class Name {
         //...
     }; 
 
-    public void createAccount(){
+    public void saveAccount(){
         // ...
     }; 
     
-    public void generateContract(){
+    public void saveContract(){
         // ...
     };
 
