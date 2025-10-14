@@ -26,10 +26,6 @@ public class Name {
     public void saveCar(){
         // ...
     };
-    //B
-    public class TableRepresenter{
-        // ...
-    };
 
     public void car(){
         //...
