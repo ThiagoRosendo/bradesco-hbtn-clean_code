@@ -4,7 +4,7 @@ import java.util.List;
 
 public class Name {
     //B
-    public Date d; // modified date
+    public Date modifiedDate; // modified date
     public List<Testcase> find(Name.User user){
         return null;
     };
